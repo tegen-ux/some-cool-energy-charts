@@ -1,6 +1,11 @@
-### First Assignment
+## First Assignment
+
+### Crude Oil Prices Under A Global Net-Zero Scenario
 
 ![Crude Oil Prices Under A Global Net-Zero Scenario](./src/a1-1.png)
+
+### WCS Crude Oil Prices, Under Current Climate Change Measures, Net-Zero
+
 ![WCS Crude Oil Prices, Under Current Climate Change Measures, Net-Zero](./src/a1-2.png)
 
 Question: *"Canada is largely an oil price taker. You’ve made two graphs and a table on oil prices and how they might
