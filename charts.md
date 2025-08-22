@@ -30,8 +30,8 @@ The "Canada's Energy Future 2023" report, detailed by the Canadian Energy Regula
 ### TCPL Canadian Mainline Throughput and Capacity (Praries) & TCPL Canadian Mainline Tolls from Empress
 ![TCPL Canadian Mainline Tolls from Empress](./src/a2-4.png)
 
-### Alberta Royaltie Revenue Over Time
-![Alberta Royaltie Revenue Over Time](./src/a2-5.png)
+### Alberta Royalty Revenue Over Time
+![Alberta Royalty Revenue Over Time](./src/a2-5.png)
 
 ## Assignment 3
 ### National Electricity Generation by Source
