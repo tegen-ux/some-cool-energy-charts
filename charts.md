@@ -20,21 +20,29 @@ The "Canada's Energy Future 2023" report, detailed by the Canadian Energy Regula
 ## Second Assignment
 
 ### Enbridge Canadian Mainline Shipments by Product
+
 ![Enbridge Canadian Mainline Shipments by Product](./src/a2-1.png)
 
 ### Trans-Mountain Pipeline Shipments by Product and Destination
+
 ![Trans-Mountain Pipeline Shipments by Product and Destination](./src/a2-2.png)
 
 ### US Crude Imports from Canada and The Rest of The World (ROW)
+
 ![US Crude Imports from Canada and The Rest of The World (ROW)](./src/a2-3.png)
+
 ### TCPL Canadian Mainline Throughput and Capacity (Praries) & TCPL Canadian Mainline Tolls from Empress
+
 ![TCPL Canadian Mainline Tolls from Empress](./src/a2-4.png)
 
 ### Alberta Royalty Revenue Over Time
+
 ![Alberta Royalty Revenue Over Time](./src/a2-5.png)
 
 ## Assignment 3
+
 ### National Electricity Generation by Source
+
 ![National Electricity Generation by Source](./src/a3-1.png)
 
 ### Electricity Generation by Source, Alberta
